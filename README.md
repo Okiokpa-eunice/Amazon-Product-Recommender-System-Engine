@@ -42,7 +42,7 @@ Contributions to the Amazon Product Recommender System are welcome! Fork the rep
 
 Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact me at okiokpaefe@gmal.com.
+If you have any questions, suggestions, or feedback, please feel free to contact me at okiokpaefe@gmail.com.
 
 Thank you for using the Amazon Product Recommender System !
 
